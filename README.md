@@ -9,3 +9,7 @@ Project entry: [https://hackerspace.govhack.org/projects/infra_nz](https://hacke
 * Download/clone the repository
 * Run `npm install && npm run dev` in the app folder.
 * Visit [http://localhost:5173/](http://localhost:5173/)
+
+### Project Video
+
+[![Project Video](https://img.youtube.com/vi/N49oRLodn_c/0.jpg)](https://www.youtube.com/watch?v=N49oRLodn_c)
